@@ -1,3 +1,3 @@
 # Resources
 
-One-stop-shop for stuff you might want to learn about
+A one stop shop for stuff you might want to learn about :D 
