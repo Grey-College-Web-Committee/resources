@@ -1,5 +1,11 @@
 # Markdown
 
+### Quick links
+
+-   [Quick Reference](https://www.markdownguide.org/cheat-sheet/)
+-   [Basic Syntax Guide](https://www.markdownguide.org/basic-syntax/)
+-   [Extended Syntax Guide](https://www.markdownguide.org/extended-syntax/)
+
 ### What is markdown?
 
 Markdown is a markup language (yes, another brilliant example of how CompScis like to name stuff).
