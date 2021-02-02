@@ -39,7 +39,7 @@
 ## =
 - Often times in programming, a single equal sign doesn’t mean the mathematical comparison of equalness (yes, its absolutely a word), it means that a variable on one side takes the value of the thing on the other side
 - E.g. a = 4
-- Means a variable called a now holds the value 4 
+- Means a variable called **a** now holds the value **4**
 
 ## == 
 - Often a double equals sign is used to do the mathematical comparison
